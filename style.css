@@ -11,6 +11,7 @@ body{
 
 header{
     background-color: white;
+    padding: 15px;
 }
 
 .app-logo{
@@ -20,4 +21,41 @@ header{
 .app-title{
     display: inline-block;
     vertical-align: middle;
+}
+
+.container{
+    background-color: white;
+    width: 600px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding-left: 30px;
+    border-radius: 5px;
+}
+
+.navigation{
+    padding-top: 15px;
+    padding-bottom: 7px;
+}
+
+.botton{
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.task{
+    background-color: #47ADF1;
+    border-color: #47ADF1;
+    color: white;
+}
+
+.section{
+    background-color: white;
+    border-color: #D3D8DC;
+    color: #D3D8DC;
+}
+
+.line{
+    color: #f6f8f9;
+    padding-left: 0;
 }
