@@ -55,7 +55,53 @@ header{
     color: #D3D8DC;
 }
 
-.line{
-    color: #f6f8f9;
-    padding-left: 0;
+.main-section{
+    color: #4E515A;
+}
+
+.liste{
+    padding-bottom: 25px;
+}
+
+.element{
+    padding-top: 8px;
+    padding-bottom: 18px;
+}
+
+.circle{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border: 2px solid black;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 20px;
+}
+
+.done{
+    color: #99D8CB;
+    border-color: #99D8CB;
+}
+
+.to-do{
+    color: #F28C86;
+    border-color: #F28C86;  
+}
+
+.tag{
+    color: white;
+    border-radius: 12px;
+    padding: 6px;
+}
+
+.editorial{
+    background-color: #45ABE9;
+}
+
+.q1{
+    background-color: #9C72E4;
+}
+
+.recruiting{
+    background-color: #64C0A9;
 }
